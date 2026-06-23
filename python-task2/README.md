@@ -29,3 +29,6 @@ The system architecture completely consolidates the Phase 2 milestone requiremen
 3. Open your terminal or command prompt in that folder and run:
    ```bash
    python "Employee Payroll File Manager.py"
+   ```
+   ## Demo Video
+   https://drive.google.com/file/d/1oT97e9VzzsEcZKJgj_T3jqgOrPuLHnK7/view?usp=share_link
